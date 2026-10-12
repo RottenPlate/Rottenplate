@@ -11,6 +11,7 @@ remaking everrything
 
 lele
 <Br>
+
   <img align="" width="300" src="https://github.com/RottenPlate/Rottenplate/blob/47fb9ff8f76aee1d658677be0315b817193d7d6f/soulwaz.png">
 <br> 
 lele
@@ -18,6 +19,7 @@ lele
 
  <br> 
  
-<img src="waxwell longping.png" width="800">
+   
+<img src="take a look.png" width="900">
 
 
