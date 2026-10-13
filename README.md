@@ -20,6 +20,6 @@ I ONLY LIKE THE CHARACTER!!
  <br> 
  
    
-<img src="take a look.png" width="900">
+<img src="waxwellington.png" width="900">
 
 
