@@ -15,6 +15,8 @@ I DO NOT SUPPORT QW3L !!
   <img align="" width="300" src="https://github.com/RottenPlate/Rottenplate/blob/47fb9ff8f76aee1d658677be0315b817193d7d6f/soulwaz.png">
 <br> 
 I will compliment any waxwell ponyskin i find
+
+STOP I DONTYUMESHIP WITHWAXWELL STOPTOP 
 <img align="right" width="150" src="https://github.com/RottenPlate/Rottenplate/blob/bca000f509eeec29bbac9fbbc0bd5c4f52d03a1b/heartgraohwax.png">
 
  <br> 
