@@ -3,7 +3,7 @@
 
 
   
-remaking everrything
+
 <p align="center">
 <img src="waxwell thing.png" width="900">
 </p>
@@ -25,3 +25,12 @@ remaking everrything
  <img align="" width="300" src="https://github.com/RottenPlate/Rottenplate/blob/47fb9ff8f76aee1d658677be0315b817193d7d6f/soulwaz.png">
 
 
+<table>
+<tr>
+<td>
+</p>
+
+wip ok guys
+
+</p>
+</td>
