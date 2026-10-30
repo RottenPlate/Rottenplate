@@ -21,11 +21,12 @@
    
 <img src="waxwellington.png" width="900">
 
+<br>
 <img width="11%" src="https://github.com/RottenPlate/Rottenplate/blob/f2a29c3180feba07813ba0687a2ad9e07b51bd37/waxwell%20stamp%201.webp" />
-
-<img<img width="11%" src="https://github.com/RottenPlate/Rottenplate/blob/5839b0e3f8c3838a4216ef6f4c2e0c4810c1c463/waxwell%20stamp%202.png" />
-
-<img<img width="11%" src=" whatever link" />
+<img
+<img width="11%" src="https://github.com/RottenPlate/Rottenplate/blob/5839b0e3f8c3838a4216ef6f4c2e0c4810c1c463/waxwell%20stamp%202.png" />
+<img
+<img width="11%" src="https://github.com/RottenPlate/Rottenplate/blob/fdf51e0cfc79cf627e38bf740229e1fb9fd4e791/waxwell%20stamp%203.webp" />
 <img
 
  <img align="" width="300" src="https://github.com/RottenPlate/Rottenplate/blob/47fb9ff8f76aee1d658677be0315b817193d7d6f/soulwaz.png">
