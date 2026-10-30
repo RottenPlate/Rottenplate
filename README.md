@@ -21,9 +21,9 @@
    
 <img src="waxwellington.png" width="900">
 
-<img width="11%" src=" whatever link" />
+<img width="11%" src="https://github.com/RottenPlate/Rottenplate/blob/f2a29c3180feba07813ba0687a2ad9e07b51bd37/waxwell%20stamp%201.webp" />
 
-<img<img width="11%" src=" whatever link" />
+<img<img width="11%" src="Waxwell stamp 2.png" />
 
 <img<img width="11%" src=" whatever link" />
 <img
