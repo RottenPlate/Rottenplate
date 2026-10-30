@@ -23,7 +23,7 @@
 
 <img width="11%" src="https://github.com/RottenPlate/Rottenplate/blob/f2a29c3180feba07813ba0687a2ad9e07b51bd37/waxwell%20stamp%201.webp" />
 
-<img<img width="11%" src="Waxwell stamp 2.png" />
+<img<img width="11%" src="https://github.com/RottenPlate/Rottenplate/blob/5839b0e3f8c3838a4216ef6f4c2e0c4810c1c463/waxwell%20stamp%202.png" />
 
 <img<img width="11%" src=" whatever link" />
 <img
