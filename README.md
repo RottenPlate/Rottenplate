@@ -21,6 +21,12 @@
    
 <img src="waxwellington.png" width="900">
 
+<img width="11%" src=" whatever link" />
+
+<img<img width="11%" src=" whatever link" />
+
+<img<img width="11%" src=" whatever link" />
+<img
 
  <img align="" width="300" src="https://github.com/RottenPlate/Rottenplate/blob/47fb9ff8f76aee1d658677be0315b817193d7d6f/soulwaz.png">
 
