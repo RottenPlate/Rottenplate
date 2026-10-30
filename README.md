@@ -38,12 +38,6 @@
 </p>
 
 <img align="left" width="200" src="https://github.com/RottenPlate/Rottenplate/blob/2f23f45f30299f9b9976e66814c3d5dd7dd65c39/purple%20candles.png">
-int freely unless name says so! 
-
- ⋆˙⟡
- . C+h encouraged always
-
-  
-𝄞⨾💿✮˚.⋆
+honk shooo
 </p>
 </td>
