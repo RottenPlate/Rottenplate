@@ -37,6 +37,7 @@
 <td>
 </p>
 
+<img align="left" width="200" src="image link thing">
 wip ok guys
 
 </p>
