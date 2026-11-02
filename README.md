@@ -1,4 +1,4 @@
-
+im remaking everything again, but this is set for display before i change it.
 <p align="center">
 <img src="waxwell thing.png" width="900">
 </p>
