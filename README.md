@@ -1,4 +1,4 @@
-im remaking everything again, but this is set for display before i change it.
+
 <p align="center">
 <img src="waxwell thing.png" width="900">
 </p>
@@ -32,11 +32,4 @@ i will compliment any waxwell i see!
 </p>
 </td>
 
-<p align="center">
-<br>
-<img width="12%" src="https://github.com/RottenPlate/Rottenplate/blob/f2a29c3180feba07813ba0687a2ad9e07b51bd37/waxwell%20stamp%201.webp" />
-<img
-<img width="10%" src="https://github.com/RottenPlate/Rottenplate/blob/5839b0e3f8c3838a4216ef6f4c2e0c4810c1c463/waxwell%20stamp%202.png" />
-<img
-<img width="12%" src="https://github.com/RottenPlate/Rottenplate/blob/fdf51e0cfc79cf627e38bf740229e1fb9fd4e791/waxwell%20stamp%203.webp" />
-<img
+
