@@ -13,5 +13,5 @@ insert wip
 
 
  <p align="center">
-<img src="flowerr.png" width="900">
+<img src="flowerr.png" width="860">
 </p>
