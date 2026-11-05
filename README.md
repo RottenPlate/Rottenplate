@@ -7,8 +7,4 @@
  
 insert wip
 
-<img width="11%" src=" whatever link" />
-<img
-<img width="11%" src=" whatever link" />
-<img
-
+<img align="left" width="200" src="https://github.com/VampiricSorrow/VampiricSorrow/blob/e3b5e0610563c7d9847150c6233b32f9c87af83e/heartshaped%20wax2.png">
